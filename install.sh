@@ -32,5 +32,6 @@ chmod -R 777 DDLCModded
 rm rpatool.py
 rm DDLC.zip
 rm -rf DDLC
+rm -rf mod
 echo "Install is complete!"
 echo "Modded game is in the "DDLCModded" folder"

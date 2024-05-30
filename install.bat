@@ -5,7 +5,7 @@ mkdir mod
 echo Put the mod's files inside of the mod folder then hit enter
 pause
 echo Downloading DDLC
-powershell -Command "Invoke-WebRequest -Uri https://serenocdn.s3.nl-ams.scw.cloud/files/ddlc-win.zip -OutFile DDLC.zip"
+powershell -Command "Invoke-WebRequest -Uri https://himeko.sereno.ftp.sh/f/ddlc-win.zip -OutFile DDLC.zip"
 echo Downloading rpatool
 powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/shizmob/rpatool/master/rpatool -OutFile rpatool.py"
 echo Unpacking DDLC

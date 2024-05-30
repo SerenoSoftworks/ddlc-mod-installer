@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Downloading DDLC"
-wget -O "DDLC.zip" https://serenocdn.s3.nl-ams.scw.cloud/files/ddlc-win.zip -q --show-progress
+wget -O "DDLC.zip" https://himeko.sereno.ftp.sh/f/ddlc-win.zip -q --show-progress
 echo "Downloading RPATool"
 wget -O "rpatool.py" https://raw.githubusercontent.com/shizmob/rpatool/master/rpatool -q --show-progress
 echo "Unpacking DDLC"

@@ -1,2 +1,1 @@
-# MOVED
-This repo has moved [here.](https://git.sereno.one/SerenoV7/ddlc-mod-installer)
+# This repository was moved to my own personal Gitlab instance located [here](https://git.sereno.one/serenov7/ddlc-mod-installer)
